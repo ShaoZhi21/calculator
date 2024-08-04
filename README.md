@@ -6,6 +6,8 @@ The calculator can add, minus, subtract, divide values.
 
 It also works with negative values, values with decimals and also has a conversion to percentage.
 
+Link: https://shaozhi21.github.io/pomodoro
+
 ## Available Scripts
 
 In the project directory, you can run:
